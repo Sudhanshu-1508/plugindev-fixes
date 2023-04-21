@@ -1,0 +1,3 @@
+#: templates/admin_settings.php:8
+msgid "Related News"
+msgstr ""
